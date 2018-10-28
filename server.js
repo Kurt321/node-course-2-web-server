@@ -69,3 +69,12 @@ app.get('/bad', (req, res) => {
 app.listen(port, () => {
     console.log(`Server is up on port ${port}`);
 });
+
+
+//eenmalig: heroku create
+
+
+//git add .
+//git commit -m 'setup start script and heroku port'
+//git push
+//git push heroku
